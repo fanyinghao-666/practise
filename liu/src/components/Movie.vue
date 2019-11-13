@@ -1,6 +1,6 @@
 <template>
   <div class="box">
-    <p>摄影社区热门小镇</p>
+    <p>摄影社区热门小1</p>
     <ul class="lis">
       <li v-for="(item,index) in arr" :key="index">
         <img :src="item.imgUrl" alt />
